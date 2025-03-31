@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Pedro Ramírez González  
 
-![Banner](https://source.unsplash.com/1600x400/?technology,coding)  
+<img src="https://raw.githubusercontent.com/tuusuario/tuusuario/main/banner.png" alt="Banner" width="100%">
 
 ## 🚀 Desarrollador de Software | Apasionado por la Innovación y la Tecnología  
 
@@ -10,7 +10,8 @@ Soy un **desarrollador de software junior** con experiencia en diversas tecnolog
 
 ## 🛠️ Tecnologías y Herramientas  
 
-- **Lenguajes:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+- **Lenguajes:**  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -27,19 +28,11 @@ Soy un **desarrollador de software junior** con experiencia en diversas tecnolog
 
 ---
 
-## 📌 Últimos Proyectos  
-
-🔹 **[Proyecto 1](#)** - Breve descripción del proyecto.  
-🔹 **[Proyecto 2](#)** - Breve descripción del proyecto.  
-🔹 **[Proyecto 3](#)** - Breve descripción del proyecto.  
-
----
 
 ## 💡 Sobre mí  
 
 ✔️ **Entusiasta del desarrollo de software** y la resolución de problemas.  
 ✔️ Siempre en busca de **nuevos retos y oportunidades de aprendizaje**.  
-✔️ Disfruto compartir conocimientos y **colaborar en proyectos innovadores**.  
 ✔️ Comprometido con escribir **código limpio, eficiente y bien documentado**.  
 
 ---
@@ -51,7 +44,6 @@ Soy un **desarrollador de software junior** con experiencia en diversas tecnolog
 
 ---
 
-⭐ ¡Gracias por visitar
-
+⭐ ¡Gracias por visitar mi perfil! 🚀  
 
 
