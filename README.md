@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Pedro Ramírez González  
 
-<img src="https://raw.githubusercontent.com/tuusuario/tuusuario/main/banner.png" alt="Banner" width="100%">
-
 ## 🚀 Desarrollador de Software | Apasionado por la Innovación y la Tecnología  
 
 Soy un **desarrollador de software junior** con experiencia en diversas tecnologías y un enfoque constante en la mejora y el aprendizaje continuo. Me encanta desarrollar soluciones eficientes y escalables, así como explorar nuevas tendencias en el mundo IT.  
